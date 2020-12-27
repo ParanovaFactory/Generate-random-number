@@ -1,1 +1,1 @@
-# Random-sinifi-ile-sayi-olusturma
+# Random sınıfı ile sayı oluşturma
