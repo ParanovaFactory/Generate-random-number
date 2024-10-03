@@ -1,1 +1,1 @@
-# Random sınıfı ile sayı oluşturma
+
